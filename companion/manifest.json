@@ -1,5 +1,5 @@
 {
-	"id": "jetbrains",
+	"id": "jetbrains-ides",
 	"name": "JetBrains IDE Integration",
 	"shortname": "JetBrainsIDEs",
 	"description": "Adds integration with the Stream Deck plugin available in all JetBrains IDEs",
