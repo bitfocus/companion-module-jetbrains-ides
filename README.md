@@ -1,3 +1,6 @@
 # companion-module-jetbrains-ides
 
-Adds actions to run actions in the JetBrains set of IDEs
+Adds button actions to run IntelliJ Platform IDE actions via its
+[Stream Deck plugin](https://plugins.jetbrains.com/plugin/22441-stream-deck).
+
+View [HELP.md](companion/HELP.md) for additional information.
