@@ -2326,9 +2326,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jetbrains@workspace:.":
+"jetbrains-ides@workspace:.":
   version: 0.0.0-use.local
-  resolution: "jetbrains@workspace:."
+  resolution: "jetbrains-ides@workspace:."
   dependencies:
     "@companion-module/base": "npm:~1.10.0"
     "@companion-module/tools": "npm:^1.5.1"
