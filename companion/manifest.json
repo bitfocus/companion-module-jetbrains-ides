@@ -1,0 +1,28 @@
+{
+	"id": "jetbrains",
+	"name": "JetBrains IDE Integration",
+	"shortname": "JetBrainsIDEs",
+	"description": "Adds integration with the Stream Deck plugin available in all JetBrains IDEs",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/sschr15/companion-module-jetbrains.git",
+	"bugs": "https://github.com/bitfocus/companion-module-generic-http/issues",
+	"maintainers": [
+		{
+			"name": "sschr15",
+			"email": "me@sschr15.com"
+		}
+	],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../index.js"
+	},
+	"manufacturer": "JetBrains",
+	"products": [ "IDEs" ],
+	"keywords": [
+		"Development"
+	]
+}
